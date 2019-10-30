@@ -1,0 +1,11 @@
+C:\Users\lucas\Source\Repos\SemearTest\bin\Debug\netcoreapp3.0\SemearTest.exe
+C:\Users\lucas\Source\Repos\SemearTest\bin\Debug\netcoreapp3.0\SemearTest.deps.json
+C:\Users\lucas\Source\Repos\SemearTest\bin\Debug\netcoreapp3.0\SemearTest.runtimeconfig.json
+C:\Users\lucas\Source\Repos\SemearTest\bin\Debug\netcoreapp3.0\SemearTest.runtimeconfig.dev.json
+C:\Users\lucas\Source\Repos\SemearTest\bin\Debug\netcoreapp3.0\SemearTest.dll
+C:\Users\lucas\Source\Repos\SemearTest\bin\Debug\netcoreapp3.0\SemearTest.pdb
+C:\Users\lucas\Source\Repos\SemearTest\obj\Debug\netcoreapp3.0\SemearTest.csprojAssemblyReference.cache
+C:\Users\lucas\Source\Repos\SemearTest\obj\Debug\netcoreapp3.0\SemearTest.AssemblyInfoInputs.cache
+C:\Users\lucas\Source\Repos\SemearTest\obj\Debug\netcoreapp3.0\SemearTest.AssemblyInfo.cs
+C:\Users\lucas\Source\Repos\SemearTest\obj\Debug\netcoreapp3.0\SemearTest.dll
+C:\Users\lucas\Source\Repos\SemearTest\obj\Debug\netcoreapp3.0\SemearTest.pdb
